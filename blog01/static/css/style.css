@@ -11,6 +11,19 @@
  * Licensed under the MIT license
  */
 
+
+
+/*---オリジナルのcss----*/
+img{
+	width: 700px;
+}
+body{
+	width: 1224px;
+	margin
+}
+
+/*---ここまで----*/
+
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @font-face {
   font-family: "Yu Gothic";
